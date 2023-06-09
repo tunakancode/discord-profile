@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.icon {
+    margin-top: 30px;
+    background: #19191b;
+    height: 70px;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 20px;
+}
+.body {
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 200px;
+    margin-left: 150px;
+    height: 600px;
+    width: 400px;
+    position: relative;
+    background-color: black;
+    color: white;
+}
+
+.ue {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    position: absolute;
+}
+
+.ue h3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.ue p {
+    font-size: 13px;
+}
+.aboutme {
+    margin-left: 20px;
+    width: 90%;
+    margin-top: 80px;
+    position: relative;
+}
+
+.aboutme span {
+    font-weight: bold;
+}
+.main {
+    position: relative;
+}
+
+.touroku {
+    display: flex;
+    position: relative;
+}
+
+.touroku p {
+    margin-top: 15px;
+}
+.member p {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.r-cmd {
+    margin-top: 30px;
+    background-color: #19191b;
+    border-radius: 5px 5px 5px 5px;
+    width: 250px;
+    display: flex;
+}
+
+.r-cmd span {
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.r-cmd p {
+    margin-left: 5px;
+    margin-top: 4px;
+    font-size: 15px;
+}
